@@ -1,0 +1,7 @@
+/.dist
+/mqtt.sql
+/test_clickhouse.py
+/test_ds.py
+/test_web_api.py
+/tmp
+/__pycache__
